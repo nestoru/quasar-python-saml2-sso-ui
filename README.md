@@ -1,4 +1,6 @@
 # Portal UI (portal-ui)
+![Alt text](login.jpg?raw=true "Login")
+![Alt text](landed.jpg?raw=true "Landed")
 
 ## Install the dependencies
 ```bash
